@@ -1,1 +1,2 @@
-# -Google-Play-Store-App-Analysis
+Objective:
+The primary objective of this analysis is to identify top-performing app categories by examining those with the highest installs and ratings, helping determine the most popular app types. Additionally, the study explores the relationship between app ratings and the number of installs to assess how user feedback influences download trends. Another key focus is to analyze the distribution of free vs. paid apps and evaluate their performance across different categories. Ultimately, the insights derived from this analysis will provide valuable recommendations for app developers and businesses to enhance app visibility, boost installs, and improve user satisfaction.
